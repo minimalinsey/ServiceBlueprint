@@ -1,1 +1,99 @@
 Title: Service Blueprint
+
+----
+
+Text: 
+
+Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
+
+<b>Wat is een service blueprint?</b>
+“Een service blueprint visualiseert organisatie processen hoe een bedrijf gebruikers ervaring meet, levert en overbrengt” 
+
+Een service blueprint maakt een compleet bestaand (of nieuwe) service inzichtelijk aan de voorkant van de service (wat de gebruiker ervaart van een product) en de achterkant van een service (wat de medewerker ervaart van een product).
+Door dit inzichtelijk te maken kan je diepere pijnpunten uit een proces behalen, om diepere problemen op te lossen die zich doorstralen naar de (eind) gebruiker.
+Een service blueprint is een deliverable uit Service Design
+
+<b>Wat is Service Design?</b>
+“Service Design verbeterd de ervaringen van de gebruiker als de werknemers door de activiteiten van een organisatie te ontwerpen, aftestemmen en te optimaliseren om de User Journey beter te ondersteunen”
+
+<b>Waarom maak je (als ontwerper) een service blueprint?</b>
+Wanneer je een service ontwerpt is het van belang dat alles met elkaar op een lijn staat en goed met elkaar in combinatie werkt.
+Met de service blueprint breng je makkelijk alle onderdelen van deze service in kaart, wat een erg goed handvat kan zijn voor het ontwerpproces.
+
+<b>Wanneer in het ontwerpproces maak je een BluePrint?</b>
+Vooraf in het ontwerpproces:
+Voor het inrichten van een nieuwe service.✏️
+
+Vooraf/tijdens het ontwerpproces:
+Voor het verbeteren van een huidige service.📈
+
+<b>Een service blueprint maken</b>
+De 5 stappen tot succes
+
+Stap 1:
+Verzamel zo veel als mogelijk mensen van verschillende rollen voor een team! (Denk aan: Interaction Designer, visual designer, front-ender, back-ender, project-coordinator, product holder etc.)
+Zet hiermee een team op die gaan bedenken over verbeteringen van een service/een service opzetten.
+
+Stap 2:
+Maak het doel waarnaar je gezamenlijk als team naartoe werkt concreet. Maak je een service blueprint om een service te verbeteren? Welke touchpoints gebruikt hierbij de gebruiker? Welke stakeholders komen er hier nog meer aan te pas? Is er al informatie beschikbaar? Wat moet de service blueprint uiteindelijk oplossen voor de organisatie?
+
+Stap 3:
+Verzamel research over de (eind) gebruikers, stakeholders (welke organisaties komen nog meer te pas voor deze ‘specifieke service’), interne medewerkers.
+Kortom:
+Externe informatie van de gebruikers (User journey, interviews, persona’s etc.)
+Interne informatie van de medewerkers (hoe ervaren zij werken voor organisatie X? Wat zijn voor hun interactie-punten/momenten).
+
+Stap 4:
+Het opzetten van de Service Blueprint:
+• Workshop organiseren waarbij iedereen fysiek aanwezig is, hierdoor kan je makkelijker gezamenlijk nadenken over verschillende touchpoints etc.
+Zorg dat er grote bladen aan de muur waarop je met post-its verschillende inzichten kan opplakken.
+Mocht het zo zijn dat je niet gezamenlijk in 1 ruimte kan zitten, zorg dan voor een ‘digitaal’ whiteboard waarop je gezamenlijk inzichten kan plaatsen.
+
+• Zet de gebruikers-acties in kaart.
+Bij een service blueprint draait het meer om de medewerkers-acties dan de gebruikers-acties, maar het is alsnog van belang dat de gebruikers acties worden vermeld bij elke stap van het proces (en de daarbij parallelle acties van een medewerker). 
+
+• Zet de mederwerkers ‘front-stage’ & ‘back-stage’ in kaart.
+Dit is de kern van een service blueprint, zet alle stappen van de medewerkers en hoe deze communiceren aan de gebruikers aan de front-stage kant van de blueprint, en de interne communicatie aan de back-stage kant. Let wel op! Gebruik hier inzichten van medewerkers van je bedrijf, gebruik hiervoor interviews die je bij een eerdere stap heb afgenomen met medewerkers zodat je realistische afspiegeling hebt wat er intern plaatst vind bij de organisatie.
+• Zet support processen in kaart (met bewijs van deze processen).
+Zet het proces erbij wat er voor zorgt dat de medewerker contact krijgt met de gebruiker, dit kan digitale artefacten zijn of telefoonjes tot contact in real life/frond desk.
+
+Stap 5: 
+Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’.
+
+
+
+<b>Bronnen</b>
+
+https://www.nngroup.com/articles/5-steps-service-blueprinting/
+https://www.nngroup.com/articles/service-design-101/
+http://ijdesign.org/index.php/IJDesign/article/view/994/341
+https://open.spotify.com/episode/7asBg01cU8rBLyRs0SQjwg?si=r-btUO_-TK2Ff3a3043_Eg
+Boek: This is service design doing.
+
+
+{{ gallery }}
+
+
+
+----
+
+Date: 2019-11-23 
+
+----
+
+Author: Linsey en Corné
+
+
+----
+
+Tags: Service Design, Tools
+
+----
+
+Gallery: 
+
+- photography/animals
+
+----
+
+Headline: Super nicer scheiss
