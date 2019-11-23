@@ -6,8 +6,6 @@ Text:
 
 Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
 
-(image: deadly-snake-hideout.jpg)
-
 **Wat is een service blueprint?**
 “Een service blueprint visualiseert organisatie processen hoe een bedrijf gebruikers ervaring meet, levert en overbrengt” 
 
