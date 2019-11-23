@@ -2,32 +2,32 @@ Title: Service Blueprint
 
 ----
 
-Text: 
+Text:
 
 Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
 
-<b>Wat is een service blueprint?</b>
+**Wat is een service blueprint?**
 “Een service blueprint visualiseert organisatie processen hoe een bedrijf gebruikers ervaring meet, levert en overbrengt” 
 
 Een service blueprint maakt een compleet bestaand (of nieuwe) service inzichtelijk aan de voorkant van de service (wat de gebruiker ervaart van een product) en de achterkant van een service (wat de medewerker ervaart van een product).
 Door dit inzichtelijk te maken kan je diepere pijnpunten uit een proces behalen, om diepere problemen op te lossen die zich doorstralen naar de (eind) gebruiker.
 Een service blueprint is een deliverable uit Service Design
 
-<b>Wat is Service Design?</b>
+**Wat is Service Design?**
 “Service Design verbeterd de ervaringen van de gebruiker als de werknemers door de activiteiten van een organisatie te ontwerpen, aftestemmen en te optimaliseren om de User Journey beter te ondersteunen”
 
-<b>Waarom maak je (als ontwerper) een service blueprint?</b>
+**Waarom maak je (als ontwerper) een service blueprint?**
 Wanneer je een service ontwerpt is het van belang dat alles met elkaar op een lijn staat en goed met elkaar in combinatie werkt.
 Met de service blueprint breng je makkelijk alle onderdelen van deze service in kaart, wat een erg goed handvat kan zijn voor het ontwerpproces.
 
-<b>Wanneer in het ontwerpproces maak je een BluePrint?</b>
+**Wanneer in het ontwerpproces maak je een BluePrint?**
 Vooraf in het ontwerpproces:
 Voor het inrichten van een nieuwe service.✏️
 
 Vooraf/tijdens het ontwerpproces:
 Voor het verbeteren van een huidige service.📈
 
-<b>Een service blueprint maken</b>
+**Een service blueprint maken**
 De 5 stappen tot succes
 
 Stap 1:
@@ -61,8 +61,7 @@ Stap 5:
 Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’.
 
 
-
-<b>Bronnen</b>
+**Bronnen**
 
 https://www.nngroup.com/articles/5-steps-service-blueprinting/
 https://www.nngroup.com/articles/service-design-101/
@@ -73,16 +72,15 @@ Boek: This is service design doing.
 
 {{ gallery }}
 
+----
 
+Date: 2019-11-23 00:00
 
 ----
 
-Date: 2019-11-23 
+Author:
 
-----
-
-Author: Linsey en Corné
-
+- 0930123@hr.nl
 
 ----
 
@@ -91,8 +89,6 @@ Tags: Service Design, Tools
 ----
 
 Gallery: 
-
-- photography/animals
 
 ----
 
