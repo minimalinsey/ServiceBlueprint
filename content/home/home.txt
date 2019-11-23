@@ -90,9 +90,7 @@ Tags: Service Design, Tools
 
 ----
 
-Gallery:
-
-- photography/plants
+Gallery: 
 
 ----
 
