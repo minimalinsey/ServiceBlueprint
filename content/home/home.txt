@@ -58,8 +58,9 @@ Dit is de kern van een service blueprint, zet alle stappen van de medewerkers en
 Zet het proces erbij wat er voor zorgt dat de medewerker contact krijgt met de gebruiker, dit kan digitale artefacten zijn of telefoonjes tot contact in real life/frond desk.
 
 Stap 5: 
-Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’. {{ gallery }}
+Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’. 
 
+(file: service-blueprint.pdf)
 
 **Bronnen**
 
@@ -81,6 +82,10 @@ Author:
 
 ----
 
+Content: 
+
+----
+
 Tags: Service Design, Tools
 
 ----
@@ -91,4 +96,8 @@ Gallery:
 
 ----
 
-Headline: Super nicer scheiss
+Image: - en-de-tweede-tekening.png
+
+----
+
+Headline: -
