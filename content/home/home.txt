@@ -6,6 +6,8 @@ Text:
 
 Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
 
+(image: deadly-snake-hideout.jpg)
+
 **Wat is een service blueprint?**
 “Een service blueprint visualiseert organisatie processen hoe een bedrijf gebruikers ervaring meet, levert en overbrengt” 
 
@@ -58,7 +60,7 @@ Dit is de kern van een service blueprint, zet alle stappen van de medewerkers en
 Zet het proces erbij wat er voor zorgt dat de medewerker contact krijgt met de gebruiker, dit kan digitale artefacten zijn of telefoonjes tot contact in real life/frond desk.
 
 Stap 5: 
-Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’.
+Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’. {{ gallery }}
 
 
 **Bronnen**
@@ -68,9 +70,6 @@ https://www.nngroup.com/articles/service-design-101/
 http://ijdesign.org/index.php/IJDesign/article/view/994/341
 https://open.spotify.com/episode/7asBg01cU8rBLyRs0SQjwg?si=r-btUO_-TK2Ff3a3043_Eg
 Boek: This is service design doing.
-
-
-{{ gallery }}
 
 ----
 
