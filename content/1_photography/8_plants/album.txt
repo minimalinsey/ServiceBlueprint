@@ -1,6 +1,10 @@
-Cover: 
+Title: Plants
 
-- nice-colors-ugly-plant.jpg
+----
+
+Cover:
+
+- deadly-snake-hideout.jpg
 
 ----
 
@@ -13,7 +17,3 @@ Description: They call me Dr. Greenthumb.
 ----
 
 Tags: plants
-
-----
-
-Title: Plants
