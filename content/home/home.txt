@@ -4,6 +4,8 @@ Title: Service Blueprint
 
 Text:
 
+(image: service_blueprint_mockup.jpeg)
+
 Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
 
 **Wat is een service blueprint?**
@@ -81,13 +83,17 @@ Author:
 
 ----
 
+Content:
+
+- service_blueprint_mockup.jpeg
+
+----
+
 Tags: Service Design, Tools
 
 ----
 
-Gallery:
-
-- photography/plants
+Gallery: 
 
 ----
 
