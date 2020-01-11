@@ -8,14 +8,19 @@ Text:
 
 Voor het verbeteren of het maken van een goede service maken designers, content managers, project coordinators gebruik van een service blueprint
 
-**Wat is een service blueprint?**
+---
+
+## **Wat is een service blueprint?**
 “Een service blueprint visualiseert organisatie processen hoe een bedrijf gebruikers ervaring meet, levert en overbrengt” 
 
 Een service blueprint maakt een compleet bestaand (of nieuwe) service inzichtelijk aan de voorkant van de service (wat de gebruiker ervaart van een product) en de achterkant van een service (wat de medewerker ervaart van een product).
 Door dit inzichtelijk te maken kan je diepere pijnpunten uit een proces behalen, om diepere problemen op te lossen die zich doorstralen naar de (eind) gebruiker.
 Een service blueprint is een deliverable uit Service Design
+<br>
 
-**Wat is Service Design?**
+---
+
+## **Wat is Service Design?**
 “Service Design verbeterd de ervaringen van de gebruiker als de werknemers door de activiteiten van een organisatie te ontwerpen, aftestemmen en te optimaliseren om de User Journey beter te ondersteunen”
 
 **Waarom maak je (als ontwerper) een service blueprint?**
@@ -28,8 +33,11 @@ Voor het inrichten van een nieuwe service.✏️
 
 Vooraf/tijdens het ontwerpproces:
 Voor het verbeteren van een huidige service.📈
+<br>
 
-**Een service blueprint maken**
+---
+
+## **Hoe maak je een service blueprint**
 De 5 stappen tot succes
 
 Stap 1:
@@ -61,9 +69,11 @@ Zet het proces erbij wat er voor zorgt dat de medewerker contact krijgt met de g
 
 Stap 5: 
 Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’. {{ gallery }}
+<br>
 
+---
 
-**Bronnen**
+## **Bronnen**
 
 https://www.nngroup.com/articles/5-steps-service-blueprinting/
 https://www.nngroup.com/articles/service-design-101/
