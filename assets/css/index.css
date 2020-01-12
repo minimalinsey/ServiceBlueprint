@@ -25,6 +25,7 @@ a {
 
 strong, b {
   font-weight: 500;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 img {
@@ -98,6 +99,7 @@ main {
 .intro h1 {
   position: relative;
   margin-bottom: 1rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 900;
   font-size: calc(1vw + 2rem);
   z-index: 1;
@@ -119,6 +121,7 @@ main {
 .text ul,
 .text ol {
   margin-bottom: 1.5em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .text h2 {
   font-size: 1.5rem;
